@@ -1,0 +1,6 @@
+Name: Babafunmito Babalola
+Matric Number: 23CG034047
+Machine Learning Algorithm Used: Logistic Regression
+Model persistence method used: Joblib
+Live URL of the hosted application: https://titanicapp-23cg034047-2.onrender.com
+GitHub repository link: https://github.com/Babs-babalola11/titanicApp_23CG034047.git

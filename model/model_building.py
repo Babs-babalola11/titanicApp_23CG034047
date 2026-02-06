@@ -14,7 +14,7 @@ import joblib
 # ------------------------------
 # Step 2: Load dataset
 # ------------------------------
-df = pd.read_csv("titanic.csv")  # Replace with your dataset path
+df = pd.read_csv("titanic.csv.csv")  # Replace with your dataset path
 print("Dataset Loaded")
 print(df.head())
 print(df.info())
